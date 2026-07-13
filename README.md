@@ -1,4 +1,4 @@
-<h1 align="center">Raghavendaran V S</h1>
+<h1 align="center">Hi, I'm Raghavendaran V S</h1>
 
 <h3 align="center">
 AI & Machine Learning Enthusiast | Python Developer | SQL Developer
@@ -25,17 +25,19 @@ Building intelligent solutions using Artificial Intelligence, Machine Learning, 
 ## Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/raghavendaran-vs-" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
 </a>
 
 <a href="https://www.instagram.com/x_raghav.21?igsh=MW43M21ta2tkN3psYg==" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/>
 </a>
 
 <a href="mailto:raghavendaran.vs@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/>
 </a>
+
 </p>
 
 ---
@@ -43,7 +45,9 @@ Building intelligent solutions using Artificial Intelligence, Machine Learning, 
 ## Tech Stack
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,figma" />
+
 </p>
 
 ---
@@ -51,7 +55,9 @@ Building intelligent solutions using Artificial Intelligence, Machine Learning, 
 ## Currently Learning
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
 </p>
 
 ---
@@ -60,32 +66,26 @@ Building intelligent solutions using Artificial Intelligence, Machine Learning, 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavendaran&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghavendaran&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendaran&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavendaran&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendaran&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Raghavendaran&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghavendaran&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## Featured Projects
 
-- Climatic Disaster Analysis & Prediction
+- Climatic Disaster Analysis & Prediction for India
 - AI Chatbot using Gemini API
-- Food Recipe App
-- Weather App
+- Food Recipe Application
+- Weather Application
 - Event Management System
 - Teacher Portal
 - Automatic Timetable Generator
