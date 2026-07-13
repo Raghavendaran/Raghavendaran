@@ -63,19 +63,6 @@ Passionate about building intelligent systems with Artificial Intelligence, Mach
 
 ---
 
-## Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Large Language Models (LLMs)
-
----
-
 ## Featured Projects
 
 ### AI & Machine Learning
