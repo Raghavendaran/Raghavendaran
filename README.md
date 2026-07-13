@@ -95,15 +95,29 @@ Passionate about building intelligent systems with Artificial Intelligence, Mach
 - Automatic Timetable Generator
 
 ---
+
 ## Tracker
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=Raghavendaran-V-S&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raghavendaran-V-S&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavendaran-V-S&theme=github-compact&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavendaran-V-S&theme=github_dark" />
 
 </p>
 
 ---
+
 ## Contact
 
 📧 **Email:** raghavendaran.vs@gmail.com
