@@ -100,19 +100,19 @@ Passionate about building intelligent systems with Artificial Intelligence, Mach
 
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raghavendaran-V-S&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raghavendaran&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavendaran-V-S&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavendaran&theme=github-compact&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavendaran-V-S&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavendaran&theme=github_dark" />
 
 </p>
 
