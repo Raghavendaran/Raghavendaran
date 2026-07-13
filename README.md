@@ -53,16 +53,6 @@ Passionate about building intelligent systems with Artificial Intelligence, Mach
 
 ---
 
-## Currently Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
----
-
 ## Featured Projects
 
 ### AI & Machine Learning
