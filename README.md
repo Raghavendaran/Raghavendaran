@@ -96,28 +96,6 @@ Passionate about building intelligent systems with Artificial Intelligence, Mach
 
 ---
 
-## GitHub Repository Highlights
-
-- Machine Learning Projects
-- Python Automation
-- SQL Practice
-- AI Experiments
-- Data Analysis
-- Open Source Learning
-
----
-
-## Goals for 2026
-
-- Learn Deep Learning
-- Build End-to-End AI Projects
-- Master TensorFlow & PyTorch
-- Explore Computer Vision
-- Learn MLOps Fundamentals
-- Contribute to Open Source AI Projects
-
----
-
 ## Contact
 
 📧 **Email:** raghavendaran.vs@gmail.com
