@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghavendaran V S</h1>
+<h1 align="center">Hi , I'm Raghavendaran V S</h1>
 
 <h3 align="center">
 AI & Machine Learning Enthusiast | Python Developer | SQL Developer
